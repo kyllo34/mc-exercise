@@ -19,5 +19,5 @@ Alice was lazy.
 Carol deserves a promotion.
 
 I hate all people
-The people I hate can die
-Only Bob is here
+The people I hate will die
+There is only Bob
