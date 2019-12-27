@@ -18,6 +18,11 @@ Alice did not.
 Alice was lazy.
 Carol deserves a promotion.
 
+bob sucks
+he codes garbage
+bob is getting angry
+he wont merge
+
 I hate all people
 The people I hate will die
 There is only Bob
