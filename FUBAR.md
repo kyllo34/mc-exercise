@@ -18,3 +18,6 @@ Alice did not.
 Alice was lazy.
 Carol deserves a promotion.
 
+I hate all people
+The people I hate can die
+Only Bob is here
