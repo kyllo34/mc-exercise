@@ -8,7 +8,13 @@ Four pretty sentences for you.
 Four pretty sentences for you.
 Four pretty sentences for you.
 
+Bob is so coool
+Bob doesnt need to pull
+Bob is confident
+Bob cant fail
+
 Carol did a thing.
 Alice did not.
 Alice was lazy.
 Carol deserves a promotion.
+
